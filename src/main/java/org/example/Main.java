@@ -11,5 +11,6 @@ public class Main {
         while (machine.isWorking()) {
             machine.execute(scanner.next());
         }
+        //puse un comentario para que todo salga bien
     }
 }
