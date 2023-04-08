@@ -11,7 +11,6 @@ El objetivo final de este proyecto es refactorizar el programa, creando un solo 
 * Uso de estados para manejar la entrada del usuario.
 * Refactorización del programa para interactuar con la máquina de café a través de un solo método.
 
-## Estas son las instrucciones para ejecutar el proyecto en tu máquina local.
 
 ## Pre-requisitos
 Asegúrate de tener instalado lo siguiente:
